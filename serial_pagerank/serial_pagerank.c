@@ -1,17 +1,18 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 #include <math.h>
-#include "links.h"
-
 #define NUM_SITES 15
 #define MAX_LINK_LEN 50
 
 extern const char LINKS_ARRAY[NUM_SITES][MAX_LINK_LEN];
 void get_serial_hyperlink_matrix(int H[NUM_SITES][NUM_SITES]);
+void get_hyperlink_matrix_from_file(int H[NUM_SITES][NUM_SITES], int size);
 void get_matrices(double google_matrix[NUM_SITES][NUM_SITES]);
 void generate_matrices(int H[NUM_SITES][NUM_SITES], double G[NUM_SITES][NUM_SITES]);
 void get_matrices(double google_matrix[NUM_SITES][NUM_SITES]);
 void power_method(double matrix[NUM_SITES][NUM_SITES], int size, double pagerank[]);
+void sort_pagerank(double pagerank[], int indices[], int size);
 
 int main() {
     double google_matrix[NUM_SITES][NUM_SITES];
@@ -154,11 +155,37 @@ void get_matrices(double google_matrix[NUM_SITES][NUM_SITES]) {
     int hyperlink_matrix[NUM_SITES][NUM_SITES] = {0};
 
     // Fill the hyperlink matrix
-    get_serial_hyperlink_matrix(hyperlink_matrix);
+    //get_serial_hyperlink_matrix(hyperlink_matrix);
+    get_hyperlink_matrix_from_file(hyperlink_matrix, NUM_SITES);
     // generate google matrix
     generate_matrices(hyperlink_matrix, google_matrix);
 }
 
+void get_hyperlink_matrix_from_file(int H[NUM_SITES][NUM_SITES], int size) {
+    FILE *fp;
+    fp = fopen("grid.txt", "r");
+    if (fp == NULL)
+        exit(EXIT_FAILURE);
+    char buffer[size * 3];
+    int row_count = 0;
+    int col_count = 0;
+    for (int i = 0; i < size; i++ ) {
+        fgets(buffer, size * 3, fp);
+        col_count = 0;
+        
+        char* token;
+        token = strtok(buffer, " \r\n");
+        while (token != NULL) {
+            
+            int temp = (int)token[0] - 48;
+            if (temp == 1) H[row_count][col_count] = temp;
+            col_count++;
+            token = strtok(NULL, " \r\n");
+        }
+        
+        row_count++;
+    }
+}
 
 // Get empty hyperlink matrix and fill it with values
 void get_serial_hyperlink_matrix(int H[NUM_SITES][NUM_SITES]) {   
@@ -238,6 +265,7 @@ void get_serial_hyperlink_matrix(int H[NUM_SITES][NUM_SITES]) {
     H[13][8] = 1;
 
     // Site 15 - no outgoing links
+
 }
 
 const char LINKS_ARRAY[NUM_SITES][MAX_LINK_LEN] = {
