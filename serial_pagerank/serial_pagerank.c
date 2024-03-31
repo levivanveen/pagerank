@@ -13,6 +13,7 @@ void generate_matrices(int H[NUM_SITES][NUM_SITES], double G[NUM_SITES][NUM_SITE
 void get_matrices(double google_matrix[NUM_SITES][NUM_SITES]);
 void power_method(double matrix[NUM_SITES][NUM_SITES], int size, double pagerank[]);
 void sort_pagerank(double pagerank[], int indices[], int size);
+void fill_links_array(char LINKS_ARRAY[NUM_SITES][MAX_LINK_LEN], int size);
 
 int main() {
     double google_matrix[NUM_SITES][NUM_SITES];
@@ -29,9 +30,16 @@ int main() {
     // Print the PageRank scores
     printf("PageRank scores:\n");
     printf("%-5s %-*s %-10s\n", "Rank", link_print_len, "Website", "PageRank");
+    
+    char link_names[NUM_SITES][MAX_LINK_LEN];
+    
+    fill_links_array(link_names, NUM_SITES);
     for (int i = 0; i < NUM_SITES; i++) {
-        printf("%-5d %-*s %.6f\n", indices[i] + 1, link_print_len, LINKS_ARRAY[indices[i]], pagerank[i]);
+        printf("%-5d %-*s %.6f\n", indices[i] + 1, link_print_len, link_names[indices[i]], pagerank[i]);
     }
+    /*for (int i = 0; i < NUM_SITES; i++) {
+        printf("%-5d %-*s %.6f\n", indices[i] + 1, link_print_len, LINKS_ARRAY[indices[i]], pagerank[i]);
+    }*/
 
     return 0;
 }
@@ -185,6 +193,8 @@ void get_hyperlink_matrix_from_file(int H[NUM_SITES][NUM_SITES], int size) {
         
         row_count++;
     }
+    
+    fclose(fp);
 }
 
 // Get empty hyperlink matrix and fill it with values
@@ -267,6 +277,19 @@ void get_serial_hyperlink_matrix(int H[NUM_SITES][NUM_SITES]) {
     // Site 15 - no outgoing links
 
 }
+
+void fill_links_array(char LINKS_ARRAY[NUM_SITES][MAX_LINK_LEN], int size) {
+    FILE *fp;
+    fp = fopen("links.txt", "r");
+    char buffer[MAX_LINK_LEN];
+    for (int i = 0; i < size; i++) {
+        fgets(buffer, MAX_LINK_LEN, fp);
+        buffer[strcspn(buffer, "\r\n")] = 0; //https://stackoverflow.com/questions/2693776/removing-trailing-newline-character-from-fgets-input
+        strncpy(LINKS_ARRAY[i], buffer, MAX_LINK_LEN);
+    }
+    fclose(fp);
+}
+
 
 const char LINKS_ARRAY[NUM_SITES][MAX_LINK_LEN] = {
     "www.wlu.ca",
