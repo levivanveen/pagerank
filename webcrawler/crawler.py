@@ -7,7 +7,14 @@ import os
 
 class FollowAllSpider(Spider):
     name = 'follow_all'
-    start_urls = ['https://quotes.toscrape.com/']
+    start_urls = ['https://quotes.toscrape.com/', 
+                  'https://www.wlu.ca/',
+                  'https://uwaterloo.ca/',
+                  'https://www.utoronto.ca/',
+                  'https://en.wikipedia.org/wiki/Main_Page',
+                  'https://www.mcmaster.ca/',
+                  'https://www.uoguelph.ca/'
+                  ]
     try:
         os.remove('crawlerout.txt')
     except OSError:

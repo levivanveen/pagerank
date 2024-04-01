@@ -38,6 +38,8 @@ for key, values in url_ref.items():
     row_count += 1
 
 
-#for i in range(2):
-#    print(link_array[i])
-print(link_array)
+grid_outfile = open("grid.txt", "w")
+for i in range(len(link_array)):
+    for j in range(len(link_array)):
+        grid_outfile.write(f"{link_array[i][j]} ")
+    grid_outfile.write("\n")
