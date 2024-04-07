@@ -1,0 +1,896 @@
+Got to MPI_BcastPageRank scores:
+https://www.goodreads.com/quotes/tag/honesty      : 0.100397
+https://quotes.toscrape.com/tag/simile/           : 0.074472
+https://quotes.toscrape.com/tag/drug/page/1/      : 0.073970
+https://quotes.toscrape.com/author/Stephenie-Meyer: 0.073970
+https://policies.google.com/?hl=en-GB&gl=ca       : 0.060397
+https://www.goodreads.com/quotes/tag/inspirational?page=99: 0.056476
+https://www.goodreads.com/quotes/tag/inspirational?page=9: 0.053712
+https://www.goodreads.com/quotes                  : 0.051660
+https://www.goodreads.com/user/show/31412569-elia-goldenlyre: 0.051029
+https://quotes.toscrape.com/                      : 0.038311
+https://developer.android.com/license             : 0.032028
+https://www.goodreads.com/user/show/23505547-madalina: 0.021645
+https://quotes.toscrape.com/login                 : 0.015660
+https://play.google.com/intl/en_us/badges/        : 0.011854
+http://quotes.toscrape.com/                       : 0.011452
+https://www.goodreads.com/toggle_mobile           : 0.011452
+https://www.zyte.com                              : 0.011278
+https://www.goodreads.com/user/show/86893648-asha : 0.011263
+https://www.goodreads.com/author/show/1218557.Gerard_Way: 0.006861
+https://support.google.com/googleplay/android-developer/threads?hl=en&thread_filter=(category:devcom_monetization): 0.006299
+https://itunes.apple.com/app/apple-store/id355833469?pt=325668&ct=mw_footer&mt=8: 0.006125
+https://www.goodreads.com/user/show/40699185-raven: 0.004669
+https://www.linkedin.com/company/googleplaydev/   : 0.002906
+https://support.google.com/googleplay/android-developer/thread/234991248/i-selling-game-on-google-play-and-my-payments-account-hold-on?hl=en: 0.002416
+https://www.goodreads.com/ap/forgotpassword?showRememberMe=true&openid.pape.max_auth_age=0&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&siteState=98e3f33390a780f1e18: 0.001575
+https://www.goodreads.com/review/list/31412569-elia-goldenlyre?shelf=read: 0.001225
+https://www.goodreads.com/book/show/36829052-like-a-butterfly: 0.001122
+https://www.goodreads.com/review/list/31412569-elia-goldenlyre?shelf=currently-reading: 0.000823
+https://support.google.com/googleplay/android-developer/threads?hl=en&thread_filter=(category:devcom_google_play_games): 0.000411
+https://quotes.toscrape.com/tag/failure/page/1/   : 0.000236
+https://quotes.toscrape.com/tag/paraphrased/page/1/: 0.000236
+https://quotes.toscrape.com/author/Eleanor-Roosevelt: 0.000236
+https://quotes.toscrape.com/tag/misattributed-eleanor-roosevelt/page/1/: 0.000236
+https://quotes.toscrape.com/author/Steve-Martin   : 0.000236
+https://quotes.toscrape.com/tag/obvious/page/1/   : 0.000236
+https://quotes.toscrape.com/tag/simile/page/1/    : 0.000236
+https://quotes.toscrape.com/page/2/               : 0.000236
+https://quotes.toscrape.com/tag/love/             : 0.000236
+https://quotes.toscrape.com/tag/inspirational/    : 0.000236
+https://quotes.toscrape.com/tag/life/             : 0.000236
+https://quotes.toscrape.com/tag/humor/            : 0.000236
+https://quotes.toscrape.com/tag/books/            : 0.000236
+https://quotes.toscrape.com/tag/reading/          : 0.000236
+https://quotes.toscrape.com/tag/friendship/       : 0.000236
+https://quotes.toscrape.com/tag/friends/          : 0.000236
+https://quotes.toscrape.com/tag/truth/            : 0.000236
+https://quotes.toscrape.com/author/Albert-Einstein: 0.000236
+https://quotes.toscrape.com/tag/change/page/1/    : 0.000236
+https://quotes.toscrape.com/tag/deep-thoughts/page/1/: 0.000236
+https://www.zyte.com/blog/ai-scraping-now-available-in-zyte-api/?utm_campaign=SS24&utm_activity=referral&utm_medium=referral&utm_source=website-banner: 0.000236
+https://www.zyte.com/                             : 0.000236
+https://app.zyte.com/account/login?ws_medium=&ws_external_source=&ws_internal_source=: 0.000236
+https://www.zyte.com/data-extraction/             : 0.000236
+https://www.zyte.com/data-types/product-scraper/  : 0.000236
+https://www.zyte.com/data-types/news-articles-scraper/: 0.000236
+https://www.zyte.com/data-types/web-data-for-ai/  : 0.000236
+https://www.zyte.com/data-types/search-engine-scraper/: 0.000236
+https://www.zyte.com/data-types/job-scraper/      : 0.000236
+https://www.zyte.com/data-types/social-media-scraper/: 0.000236
+https://www.zyte.com/data-types/real-estate-scraper/: 0.000236
+https://www.zyte.com/zyte-api/                    : 0.000236
+https://www.zyte.com/smart-proxy-manager/         : 0.000236
+https://www.zyte.com/ban-handling-headless-browser/: 0.000236
+https://www.zyte.com/smart-proxy-manager-residential/: 0.000236
+https://www.zyte.com/ide/                         : 0.000236
+https://www.zyte.com/ai-web-scraping/             : 0.000236
+https://www.zyte.com/automated-data-extraction/   : 0.000236
+https://www.zyte.com/scrapy-cloud/                : 0.000236
+https://www.zyte.com/solution-overview/           : 0.000236
+https://www.zyte.com/developers/                  : 0.000236
+https://support.zyte.com/support/home             : 0.000236
+https://docs.zyte.com                             : 0.000236
+https://www.zyte.com/open-source/                 : 0.000236
+https://www.zyte.com/pricing/                     : 0.000236
+https://www.zyte.com/learn/                       : 0.000236
+https://www.zyte.com/blog/                        : 0.000236
+https://www.zyte.com/webinars/                    : 0.000236
+https://www.zyte.com/case-study/                  : 0.000236
+https://www.zyte.com/whitepaper-ebook/            : 0.000236
+https://www.zyte.com/resources/                   : 0.000236
+https://www.zyte.com/meet-zyte/                   : 0.000236
+https://www.zyte.com/jobs/                        : 0.000236
+https://www.zyte.com/contact-us/                  : 0.000236
+https://www.zyte.com/terms-policies/              : 0.000236
+https://app.zyte.com/account/signup/zyteapi?ws_medium=&ws_external_source=&ws_internal_source=: 0.000236
+https://www.zyte.com/data-extraction/#form        : 0.000236
+https://app.zyte.com/account/signup/ai-scraping?utm_primary=AIscraping&ws_medium=&ws_external_source=&ws_internal_source=: 0.000236
+https://www.zyte.com/scrapy-cloud                 : 0.000236
+https://www.zyte.com/data-types/product-scraper   : 0.000236
+https://www.zyte.com/data-types/business-location/: 0.000236
+https://www.zyte.com/join-community/              : 0.000236
+https://www.zyte.com/news-articles-scraper/       : 0.000236
+https://www.zyte.com/zyte-api-enterprise/         : 0.000236
+https://info.zyte.com/data-maturity-model-self-assessment: 0.000236
+https://www.zyte.com/terms-policies/do-not-sell/  : 0.000236
+https://www.zyte.com/terms-policies/cookie-policy/: 0.000236
+https://app.zyte.com/account/signup/zyteapi?_gl=1*1w80p43*_ga*MTU0MTY1NTMyOC4xNzA1NjU0NzMx*_ga_PC3KF6FQ4T*MTcwNzg5ODIwNS43Ny4xLjE3MDc5MDQxMjcuMC4wLjA.#_gl=1*112l97z*_gcl_au*NDIxMTU0NDUuMTcwNTY2NTc5NQ: 0.000236
+..                                                : 0.000236
+https://www.zyte.com/talk-to-us/                  : 0.000236
+https://twitter.com/zytedata?lang=es              : 0.000236
+https://www.facebook.com/zytedata/                : 0.000236
+https://www.instagram.com/zytedata/               : 0.000236
+https://www.youtube.com/@zytedata                 : 0.000236
+https://www.linkedin.com/company/zytedata         : 0.000236
+https://discord.com/invite/DwTnbrm83s             : 0.000236
+https://quotes.toscrape.com/tag/thinking/page/1/  : 0.000236
+https://quotes.toscrape.com/tag/world/page/1/     : 0.000236
+https://quotes.toscrape.com/tag/romance/page/1/   : 0.000236
+https://www.goodreads.com/blog/show/2743-hot-new-80-very-recent-hit-books-across-genres?ref=RecentHits_eb: 0.000236
+https://www.goodreads.com/                        : 0.000236
+https://www.goodreads.com/?ref=nav_home           : 0.000236
+https://www.goodreads.com/review/list?ref=nav_mybooks: 0.000236
+https://www.goodreads.com/book?ref=nav_brws       : 0.000236
+https://www.goodreads.com/recommendations?ref=nav_brws_recs: 0.000236
+https://www.goodreads.com/choiceawards?ref=nav_brws_gca: 0.000236
+https://www.goodreads.com/genres?ref=nav_brws_genres: 0.000236
+https://www.goodreads.com/giveaway?ref=nav_brws_giveaways: 0.000236
+https://www.goodreads.com/book/popular_by_date/2024/3?ref=nav_brws_newrels: 0.000236
+https://www.goodreads.com/list?ref=nav_brws_lists : 0.000236
+https://www.goodreads.com/book?ref=nav_brws_explore: 0.000236
+https://www.goodreads.com/news?ref=nav_brws_news  : 0.000236
+https://www.goodreads.com/genres/art              : 0.000236
+https://www.goodreads.com/genres/biography        : 0.000236
+https://www.goodreads.com/genres/business         : 0.000236
+https://www.goodreads.com/genres/children-s       : 0.000236
+https://www.goodreads.com/genres/christian        : 0.000236
+https://www.goodreads.com/genres/classics         : 0.000236
+https://www.goodreads.com/genres/comics           : 0.000236
+https://www.goodreads.com/genres/cookbooks        : 0.000236
+https://www.goodreads.com/genres/ebooks           : 0.000236
+https://www.goodreads.com/genres/fantasy          : 0.000236
+https://www.goodreads.com/genres/fiction          : 0.000236
+https://www.goodreads.com/genres/graphic-novels   : 0.000236
+https://www.goodreads.com/genres/historical-fiction: 0.000236
+https://www.goodreads.com/genres/history          : 0.000236
+https://www.goodreads.com/genres/horror           : 0.000236
+https://www.goodreads.com/genres/memoir           : 0.000236
+https://www.goodreads.com/genres/music            : 0.000236
+https://www.goodreads.com/genres/mystery          : 0.000236
+https://www.goodreads.com/genres/non-fiction      : 0.000236
+https://www.goodreads.com/genres/poetry           : 0.000236
+https://www.goodreads.com/genres/psychology       : 0.000236
+https://www.goodreads.com/genres/romance          : 0.000236
+https://www.goodreads.com/genres/science          : 0.000236
+https://www.goodreads.com/genres/science-fiction  : 0.000236
+https://www.goodreads.com/genres/self-help        : 0.000236
+https://www.goodreads.com/genres/sports           : 0.000236
+https://www.goodreads.com/genres/thriller         : 0.000236
+https://www.goodreads.com/genres/travel           : 0.000236
+https://www.goodreads.com/genres/young-adult      : 0.000236
+https://www.goodreads.com/genres                  : 0.000236
+https://www.goodreads.com/group?ref=nav_comm      : 0.000236
+https://www.goodreads.com/group?ref=nav_comm_groups: 0.000236
+https://www.goodreads.com/quotes?ref=nav_comm_quotes: 0.000236
+https://www.goodreads.com/ask_the_author?ref=nav_comm_askauthor: 0.000236
+https://www.goodreads.com/user/sign_in?returnurl=undefined: 0.000236
+https://www.goodreads.com/user/sign_up            : 0.000236
+https://www.goodreads.com/quotes/recently_added   : 0.000236
+https://www.goodreads.com/quotes/recently_created : 0.000236
+https://www.goodreads.com/quotes/friend_quotes    : 0.000236
+https://www.goodreads.com/quotes/my_authors       : 0.000236
+https://help.goodreads.com/s/article/Who-can-add-quotes-to-Goodreads: 0.000236
+https://www.goodreads.com/author/show/3565.Oscar_Wilde: 0.000236
+https://www.goodreads.com/quotes/tag/attributed-no-source: 0.000236
+https://www.goodreads.com/quotes/tag/be-yourself  : 0.000236
+https://www.goodreads.com/quotes/tag/gilbert-perreira: 0.000236
+https://quotes.toscrape.com/author/J-K-Rowling    : 0.000236
+https://www.goodreads.com/quotes/tag/inspirational: 0.000236
+https://www.goodreads.com/quotes/tag/misattributed-oscar-wilde: 0.000236
+https://www.goodreads.com/quotes/tag/quote-investigator: 0.000236
+https://www.goodreads.com/quotes/19884-be-yourself-everyone-else-is-already-taken: 0.000236
+https://www.goodreads.com/user/new                : 0.000236
+https://www.goodreads.com/quotes/tag/best         : 0.000236
+https://www.goodreads.com/quotes/tag/life         : 0.000236
+https://www.goodreads.com/quotes/tag/love         : 0.000236
+https://www.goodreads.com/quotes/tag/misattributed-marilyn-monroe: 0.000236
+https://www.goodreads.com/quotes/tag/mistakes     : 0.000236
+https://www.goodreads.com/quotes/tag/out-of-control: 0.000236
+https://www.goodreads.com/quotes/tag/truth        : 0.000236
+https://www.goodreads.com/quotes/tag/worst        : 0.000236
+https://www.goodreads.com/quotes/8630-i-m-selfish-impatient-and-a-little-insecure-i-make-mistakes: 0.000236
+https://www.goodreads.com/author/show/22302.Frank_Zappa: 0.000236
+https://www.goodreads.com/quotes/tag/books        : 0.000236
+https://www.goodreads.com/quotes/tag/humor        : 0.000236
+https://www.goodreads.com/quotes/66-so-many-books-so-little-time: 0.000236
+https://www.goodreads.com/author/show/9810.Albert_Einstein: 0.000236
+https://www.goodreads.com/quotes/tag/human-nature : 0.000236
+https://www.goodreads.com/quotes/tag/infinity     : 0.000236
+https://www.goodreads.com/quotes/tag/philosophy   : 0.000236
+https://www.goodreads.com/quotes/tag/science      : 0.000236
+https://www.goodreads.com/quotes/tag/stupidity    : 0.000236
+https://www.goodreads.com/quotes/tag/universe     : 0.000236
+https://www.goodreads.com/quotes/942-two-things-are-infinite-the-universe-and-human-stupidity-and: 0.000236
+https://www.goodreads.com/author/show/13755.Marcus_Tullius_Cicero: 0.000236
+https://www.goodreads.com/quotes/tag/simile       : 0.000236
+https://www.goodreads.com/quotes/tag/soul         : 0.000236
+https://www.goodreads.com/quotes/764-a-room-without-books-is-like-a-body-without-a: 0.000236
+https://www.goodreads.com/author/show/5768330.Bernard_M_Baruch: 0.000236
+https://www.goodreads.com/quotes/tag/ataraxy      : 0.000236
+https://www.goodreads.com/quotes/tag/confidence   : 0.000236
+https://www.goodreads.com/quotes/tag/fitting-in   : 0.000236
+https://www.goodreads.com/quotes/tag/individuality: 0.000236
+https://www.goodreads.com/quotes/tag/misattributed-dr-seuss: 0.000236
+https://www.goodreads.com/quotes/tag/those-who-matter: 0.000236
+https://www.goodreads.com/quotes/865-be-who-you-are-and-say-what-you-feel-because: 0.000236
+https://www.goodreads.com/author/show/1744830.William_W_Purkey: 0.000236
+https://www.goodreads.com/quotes/tag/dance        : 0.000236
+https://www.goodreads.com/quotes/tag/heaven       : 0.000236
+https://www.goodreads.com/quotes/tag/hurt         : 0.000236
+https://www.goodreads.com/quotes/tag/sing         : 0.000236
+https://www.goodreads.com/quotes/10123-you-ve-gotta-dance-like-there-s-nobody-watching-love-like-you-ll: 0.000236
+https://www.goodreads.com/author/show/61105.Dr_Seuss: 0.000236
+https://www.goodreads.com/quotes/tag/dreams       : 0.000236
+https://www.goodreads.com/quotes/tag/reality      : 0.000236
+https://www.goodreads.com/quotes/tag/sleep        : 0.000236
+https://www.goodreads.com/quotes/7901-you-know-you-re-in-love-when-you-can-t-fall-asleep: 0.000236
+https://www.goodreads.com/author/show/259666.Mae_West: 0.000236
+https://www.goodreads.com/quotes/1598-you-only-live-once-but-if-you-do-it-right: 0.000236
+https://www.goodreads.com/author/show/5810891.Mahatma_Gandhi: 0.000236
+https://www.goodreads.com/quotes/tag/action       : 0.000236
+https://www.goodreads.com/quotes/tag/change       : 0.000236
+https://www.goodreads.com/quotes/tag/misattributed-to-gandhi: 0.000236
+https://www.goodreads.com/quotes/tag/wish         : 0.000236
+https://www.goodreads.com/quotes/24499-be-the-change-that-you-wish-to-see-in-the: 0.000236
+https://www.goodreads.com/author/show/7715.Robert_Frost: 0.000236
+https://www.goodreads.com/quotes/258-in-three-words-i-can-sum-up-everything-i-ve-learned: 0.000236
+https://www.goodreads.com/author/show/1077326.J_K_Rowling: 0.000236
+https://www.goodreads.com/work/quotes/3046572     : 0.000236
+https://www.goodreads.com/quotes/tag/charles-bayard-mitchell: 0.000236
+https://www.goodreads.com/quotes/5399-if-you-want-to-know-what-a-man-s-like-take: 0.000236
+https://www.goodreads.com/author/show/957894.Albert_Camus: 0.000236
+https://www.goodreads.com/quotes/tag/friends      : 0.000236
+https://www.goodreads.com/quotes/tag/friendship   : 0.000236
+https://www.goodreads.com/quotes/tag/misattributed-albert-camus: 0.000236
+https://www.goodreads.com/quotes/54-don-t-walk-in-front-of-me-i-may-not-follow: 0.000236
+https://www.goodreads.com/author/show/1244.Mark_Twain: 0.000236
+https://www.goodreads.com/quotes/tag/lies         : 0.000236
+https://www.goodreads.com/quotes/tag/lying        : 0.000236
+https://www.goodreads.com/quotes/tag/memory       : 0.000236
+https://www.goodreads.com/quotes/9131-if-you-tell-the-truth-you-don-t-have-to-remember: 0.000236
+https://www.goodreads.com/work/quotes/14816053    : 0.000236
+https://www.goodreads.com/quotes/10554-friendship-is-born-at-the-moment-when-one-man: 0.000236
+https://www.goodreads.com/author/show/3503.Maya_Angelou: 0.000236
+https://www.goodreads.com/quotes/5934-i-ve-learned-that-people-will-forget-what-you-said-people: 0.000236
+https://www.goodreads.com/author/show/114059.Elbert_Hubbard: 0.000236
+https://www.goodreads.com/quotes/tag/friend       : 0.000236
+https://www.goodreads.com/quotes/tag/knowledge    : 0.000236
+https://www.goodreads.com/quotes/16949-a-friend-is-someone-who-knows-all-about-you-and: 0.000236
+https://www.goodreads.com/quotes/2448-to-live-is-the-rarest-thing-in-the-world-most: 0.000236
+https://www.goodreads.com/quotes/tag/enemies      : 0.000236
+https://www.goodreads.com/quotes/tag/forgiveness  : 0.000236
+https://www.goodreads.com/quotes/tag/strategy     : 0.000236
+https://www.goodreads.com/quotes/4583-always-forgive-your-enemies-nothing-annoys-them-so-much: 0.000236
+https://www.goodreads.com/author/show/23924.Martin_Luther_King_Jr_: 0.000236
+https://www.goodreads.com/work/quotes/52037       : 0.000236
+https://www.goodreads.com/quotes/tag/darkness     : 0.000236
+https://www.goodreads.com/quotes/tag/drive-out    : 0.000236
+https://www.goodreads.com/quotes/tag/hate         : 0.000236
+https://www.goodreads.com/quotes/tag/light        : 0.000236
+https://www.goodreads.com/quotes/tag/peace        : 0.000236
+https://www.goodreads.com/quotes/943-darkness-cannot-drive-out-darkness-only-light-can-do-that: 0.000236
+https://www.goodreads.com/quotes/tag/carpe-diem   : 0.000236
+https://www.goodreads.com/quotes/tag/education    : 0.000236
+https://www.goodreads.com/quotes/tag/learning     : 0.000236
+https://www.goodreads.com/quotes/2253-live-as-if-you-were-to-die-tomorrow-learn-as: 0.000236
+https://www.goodreads.com/work/quotes/2236198     : 0.000236
+https://www.goodreads.com/quotes/2534-we-accept-the-love-we-think-we-deserve: 0.000236
+https://www.goodreads.com/author/show/1938.Friedrich_Nietzsche: 0.000236
+https://www.goodreads.com/work/quotes/19234046    : 0.000236
+https://www.goodreads.com/quotes/tag/music        : 0.000236
+https://www.goodreads.com/quotes/4590-without-music-life-would-be-a-mistake: 0.000236
+https://www.goodreads.com/work/quotes/23684401    : 0.000236
+https://www.goodreads.com/quotes/tag/intelligence : 0.000236
+https://www.goodreads.com/quotes/tag/self-deprecation: 0.000236
+https://www.goodreads.com/quotes/1198-i-am-so-clever-that-sometimes-i-don-t-understand-a: 0.000236
+https://www.goodreads.com/author/show/12080.Ralph_Waldo_Emerson: 0.000236
+https://www.goodreads.com/quotes/tag/accomplishment: 0.000236
+https://www.goodreads.com/quotes/tag/conformity   : 0.000236
+https://www.goodreads.com/quotes/876-to-be-yourself-in-a-world-that-is-constantly-trying: 0.000236
+https://www.goodreads.com/author/show/5255891.Steve_Jobs: 0.000236
+https://www.goodreads.com/quotes/924-here-s-to-the-crazy-ones-the-misfits-the-rebels-the: 0.000236
+https://www.goodreads.com/quotes/tag/insanity     : 0.000236
+https://www.goodreads.com/quotes/tag/misattributed-ben-franklin: 0.000236
+https://www.goodreads.com/quotes/tag/misattributed-mark-twain: 0.000236
+https://www.goodreads.com/quotes/tag/misattributed-to-einstein: 0.000236
+https://www.goodreads.com/quotes/5543-insanity-is-doing-the-same-thing-over-and-over-again: 0.000236
+https://www.goodreads.com/quotes/12379-i-believe-that-everything-happens-for-a-reason-people-change: 0.000236
+https://www.goodreads.com/author/show/7617.Andr_Gide: 0.000236
+https://www.goodreads.com/work/quotes/6810684     : 0.000236
+https://www.goodreads.com/quotes/14304-it-is-better-to-be-hated-for-what-you-are: 0.000236
+https://www.goodreads.com/author/show/33394.H_Jackson_Brown_Jr_: 0.000236
+https://www.goodreads.com/work/quotes/41658       : 0.000236
+https://www.goodreads.com/quotes/tag/actions      : 0.000236
+https://www.goodreads.com/quotes/tag/disappointed : 0.000236
+https://www.goodreads.com/quotes/tag/disappointment: 0.000236
+https://www.goodreads.com/quotes/tag/dream        : 0.000236
+https://www.goodreads.com/quotes/tag/explore      : 0.000236
+https://www.goodreads.com/quotes/tag/sail         : 0.000236
+https://www.goodreads.com/quotes/2340-twenty-years-from-now-you-will-be-more-disappointed-by: 0.000236
+https://www.goodreads.com/quotes?page=2           : 0.000236
+https://www.goodreads.com/quotes?page=3           : 0.000236
+https://www.goodreads.com/quotes?page=4           : 0.000236
+https://www.goodreads.com/quotes?page=5           : 0.000236
+https://www.goodreads.com/quotes?page=6           : 0.000236
+https://www.goodreads.com/quotes?page=7           : 0.000236
+https://www.goodreads.com/quotes?page=8           : 0.000236
+https://www.goodreads.com/quotes?page=9           : 0.000236
+https://www.goodreads.com/quotes?page=99          : 0.000236
+https://www.goodreads.com/quotes?page=100         : 0.000236
+https://www.goodreads.com/quotes/list?id=false    : 0.000236
+https://www.goodreads.com/quotes/new              : 0.000236
+https://www.goodreads.com/quotes/tag/inspirational-quotes: 0.000236
+https://www.goodreads.com/quotes/tag/god          : 0.000236
+https://www.goodreads.com/quotes/tag/wisdom       : 0.000236
+https://www.goodreads.com/quotes/tag/romance      : 0.000236
+https://www.goodreads.com/quotes/tag/poetry       : 0.000236
+https://www.goodreads.com/quotes/tag/death        : 0.000236
+https://www.goodreads.com/quotes/tag/happiness    : 0.000236
+https://www.goodreads.com/quotes/tag/hope         : 0.000236
+https://www.goodreads.com/quotes/tag/faith        : 0.000236
+https://www.goodreads.com/quotes/tag/life-lessons : 0.000236
+https://www.goodreads.com/quotes/tag/quotes       : 0.000236
+https://www.goodreads.com/quotes/tag/inspiration  : 0.000236
+https://www.goodreads.com/quotes/tag/spirituality : 0.000236
+https://www.goodreads.com/quotes/tag/motivational : 0.000236
+https://www.goodreads.com/quotes/tag/religion     : 0.000236
+https://www.goodreads.com/quotes/tag/writing      : 0.000236
+https://www.goodreads.com/quotes/tag/relationships: 0.000236
+https://www.goodreads.com/quotes/tag/life-quotes  : 0.000236
+https://www.goodreads.com/quotes/tag/success      : 0.000236
+https://www.goodreads.com/quotes/tag/love-quotes  : 0.000236
+https://www.goodreads.com/quotes/tag/time         : 0.000236
+https://www.goodreads.com/quotes/tag/motivation   : 0.000236
+https://www.goodreads.com/about/us                : 0.000236
+https://www.goodreads.com/jobs                    : 0.000236
+https://www.goodreads.com/about/terms             : 0.000236
+https://www.goodreads.com/about/privacy           : 0.000236
+https://help.goodreads.com/s/article/Goodreads-Interest-Based-Ads-Notice: 0.000236
+https://www.goodreads.com/adprefs                 : 0.000236
+https://www.goodreads.com/help?action_type=help_web_footer: 0.000236
+https://www.goodreads.com/author/program          : 0.000236
+https://www.goodreads.com/advertisers             : 0.000236
+https://www.goodreads.com/news?content_type=author_blogs: 0.000236
+https://www.goodreads.com/api                     : 0.000236
+https://www.facebook.com/Goodreads/               : 0.000236
+https://twitter.com/goodreads                     : 0.000236
+https://www.instagram.com/goodreads/              : 0.000236
+https://www.linkedin.com/company/goodreads-com/   : 0.000236
+https://quotes.toscrape.com/tag/abilities/page/1/ : 0.000236
+https://play.google.com/store/apps/details?id=com.goodreads&utm_source=mw_footer&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1: 0.000236
+https://quotes.toscrape.com/tag/choices/page/1/   : 0.000236
+http://quotes.toscrape.com/author/Stephenie-Meyer/: 0.000236
+https://quotes.toscrape.com/tag/inspirational/page/1/: 0.000236
+http://quotes.toscrape.com/login                  : 0.000236
+https://www.goodreads.com/user/sign_up?connect_prompt=true: 0.000236
+https://www.goodreads.com/author/show/82952.Marilyn_Monroe: 0.000236
+https://www.goodreads.com/quotes/6384-imperfection-is-beauty-madness-is-genius-and-it-s-better-to: 0.000236
+https://www.goodreads.com/quotes/tag/live         : 0.000236
+https://www.goodreads.com/quotes/tag/miracle      : 0.000236
+https://www.goodreads.com/quotes/tag/miracles     : 0.000236
+https://www.goodreads.com/quotes/987-there-are-only-two-ways-to-live-your-life-one: 0.000236
+https://www.goodreads.com/work/quotes/1897835     : 0.000236
+https://www.goodreads.com/quotes/tag/optimism     : 0.000236
+https://www.goodreads.com/quotes/tag/perception   : 0.000236
+https://www.goodreads.com/quotes/tag/pessimism    : 0.000236
+https://www.goodreads.com/quotes/25-we-are-all-in-the-gutter-but-some-of-us: 0.000236
+https://www.goodreads.com/author/show/1221698.Neil_Gaiman: 0.000236
+https://www.goodreads.com/work/quotes/2834844     : 0.000236
+https://www.goodreads.com/quotes/tag/dragons      : 0.000236
+https://www.goodreads.com/quotes/tag/fairy-tales  : 0.000236
+https://www.goodreads.com/quotes/tag/paraphrasing-g-k-chesterton: 0.000236
+https://www.goodreads.com/quotes/17764-fairy-tales-are-more-than-true-not-because-they-tell: 0.000236
+https://www.goodreads.com/author/show/3230608.Bil_Keane: 0.000236
+https://www.goodreads.com/quotes/tag/misattributed-eleanor-roosevelt: 0.000236
+https://www.goodreads.com/quotes/tag/past         : 0.000236
+https://www.goodreads.com/quotes/tag/present      : 0.000236
+https://www.goodreads.com/quotes/tag/widely-misattributed: 0.000236
+https://www.goodreads.com/quotes/3929-yesterday-is-history-tomorrow-is-a-mystery-today-is-a: 0.000236
+https://www.goodreads.com/author/show/3091287.Thomas_A_Edison: 0.000236
+https://www.goodreads.com/quotes/tag/edison       : 0.000236
+https://www.goodreads.com/quotes/tag/failure      : 0.000236
+https://www.goodreads.com/quotes/tag/paraphrased  : 0.000236
+https://www.goodreads.com/quotes/8287-i-have-not-failed-i-ve-just-found-10-000-ways-that: 0.000236
+https://www.goodreads.com/author/show/1049.Elie_Wiesel: 0.000236
+https://www.goodreads.com/quotes/tag/activism     : 0.000236
+https://www.goodreads.com/quotes/tag/apathy       : 0.000236
+https://www.goodreads.com/quotes/tag/indifference : 0.000236
+https://www.goodreads.com/quotes/tag/opposite     : 0.000236
+https://www.goodreads.com/quotes/677-the-opposite-of-love-is-not-hate-it-s-indifference-the: 0.000236
+https://www.goodreads.com/quotes/tag/1929         : 0.000236
+https://www.goodreads.com/quotes/tag/imagination  : 0.000236
+https://www.goodreads.com/quotes/tag/viereck-interview: 0.000236
+https://www.goodreads.com/quotes/2177-i-am-enough-of-an-artist-to-draw-freely-upon: 0.000236
+https://www.goodreads.com/work/quotes/2125304     : 0.000236
+https://www.goodreads.com/quotes/22842-you-have-brains-in-your-head-you-have-feet-in: 0.000236
+https://www.goodreads.com/author/show/173.George_Eliot: 0.000236
+https://www.goodreads.com/quotes/tag/misattributed: 0.000236
+https://www.goodreads.com/quotes/tag/source-unknown: 0.000236
+https://www.goodreads.com/quotes/619-it-is-never-too-late-to-be-what-you-might: 0.000236
+https://www.goodreads.com/quotes/tag/heartbreak   : 0.000236
+https://www.goodreads.com/quotes/tag/sisters      : 0.000236
+https://www.goodreads.com/quotes/270950-this-life-is-what-you-make-it-no-matter-what: 0.000236
+https://www.goodreads.com/work/quotes/1413589     : 0.000236
+https://www.goodreads.com/quotes/tag/1970         : 0.000236
+https://www.goodreads.com/quotes/tag/stories      : 0.000236
+https://www.goodreads.com/quotes/512-there-is-no-greater-agony-than-bearing-an-untold-story: 0.000236
+https://www.goodreads.com/author/show/3253.Pablo_Picasso: 0.000236
+https://www.goodreads.com/quotes/tag/art          : 0.000236
+https://www.goodreads.com/quotes/5521-everything-you-can-imagine-is-real: 0.000236
+https://www.goodreads.com/author/show/1069006.C_S_Lewis: 0.000236
+https://www.goodreads.com/quotes/tag/reading      : 0.000236
+https://www.goodreads.com/quotes/tag/tea          : 0.000236
+https://www.goodreads.com/quotes/2467-you-can-never-get-a-cup-of-tea-large-enough: 0.000236
+https://www.goodreads.com/author/show/5217.George_Bernard_Shaw: 0.000236
+https://www.goodreads.com/quotes/tag/yourself     : 0.000236
+https://www.goodreads.com/quotes/8727-life-isn-t-about-finding-yourself-life-is-about-creating-yourself: 0.000236
+https://www.goodreads.com/work/quotes/4640799     : 0.000236
+https://www.goodreads.com/quotes/tag/dumbledore   : 0.000236
+https://www.goodreads.com/quotes/tag/harry        : 0.000236
+https://www.goodreads.com/quotes/tag/philosophers-stone: 0.000236
+https://www.goodreads.com/quotes/tag/ron          : 0.000236
+https://www.goodreads.com/quotes/tag/sorcerers-stone: 0.000236
+https://www.goodreads.com/quotes/4864-to-the-well-organized-mind-death-is-but-the-next-great: 0.000236
+https://www.goodreads.com/quotes/188-do-what-you-can-with-what-you-have-where-you: 0.000236
+https://www.goodreads.com/author/show/14033.Winston_S_Churchill: 0.000236
+https://www.goodreads.com/quotes/tag/bravery      : 0.000236
+https://www.goodreads.com/quotes/tag/courage      : 0.000236
+https://www.goodreads.com/quotes/3270-success-is-not-final-failure-is-not-fatal-it-is: 0.000236
+https://www.goodreads.com/author/show/7275.Helen_Keller: 0.000236
+Got to MPI_Bcasthttps://www.goodreads.com/quotes/3443-when-one-door-of-happiness-closes-another-opens-but-often: 0.000236
+https://www.goodreads.com/author/show/12898.Stephen_Chbosky: 0.000236
+https://www.goodreads.com/quotes/tag/charlie      : 0.000236
+https://www.goodreads.com/quotes/tag/favourite-books: 0.000236
+https://www.goodreads.com/quotes/tag/sad          : 0.000236
+https://www.goodreads.com/quotes/tag/soul-searching: 0.000236
+https://www.goodreads.com/quotes/tag/wallflower   : 0.000236
+https://www.goodreads.com/quotes/4852-so-this-is-my-life-and-i-want-you-to: 0.000236
+https://www.goodreads.com/author/show/435477.Shel_Silverstein: 0.000236
+https://www.goodreads.com/quotes/tag/anything-can-be: 0.000236
+https://www.goodreads.com/quotes/tag/impossible   : 0.000236
+https://www.goodreads.com/quotes/tag/musn-t       : 0.000236
+https://www.goodreads.com/quotes/tag/possibilities: 0.000236
+https://www.goodreads.com/quotes/tag/shouldn-t    : 0.000236
+https://www.goodreads.com/quotes/tag/won-t        : 0.000236
+https://www.goodreads.com/quotes/7096-listen-to-the-mustn-ts-child-listen-to-the-don-ts-listen: 0.000236
+https://www.goodreads.com/author/show/566.Paulo_Coelho: 0.000236
+https://www.goodreads.com/work/quotes/4835472     : 0.000236
+https://www.goodreads.com/quotes/5647-and-when-you-want-something-all-the-universe-conspires-in: 0.000236
+https://www.goodreads.com/author/show/19968.John_Lennon: 0.000236
+https://www.goodreads.com/quotes/tag/beatles      : 0.000236
+https://www.goodreads.com/quotes/tag/connection   : 0.000236
+https://www.goodreads.com/quotes/tag/dreamers     : 0.000236
+https://www.goodreads.com/quotes/tag/dreaming     : 0.000236
+https://www.goodreads.com/quotes/1816-you-may-say-i-m-a-dreamer-but-i-m-not-the: 0.000236
+https://www.goodreads.com/quotes/tag/inspirational?page=2: 0.000236
+https://www.goodreads.com/quotes/tag/inspirational?page=3: 0.000236
+https://www.goodreads.com/quotes/tag/inspirational?page=4: 0.000236
+https://www.goodreads.com/quotes/tag/inspirational?page=5: 0.000236
+https://www.goodreads.com/quotes/tag/inspirational?page=6: 0.000236
+https://www.goodreads.com/quotes/tag/inspirational?page=7: 0.000236
+https://www.goodreads.com/quotes/tag/inspirational?page=8: 0.000236
+https://quotes.toscrape.com/tag/life/page/1/      : 0.000236
+https://quotes.toscrape.com/tag/live/page/1/      : 0.000236
+https://www.goodreads.com/quotes/tag/inspirational?page=100: 0.000236
+https://play.google.com/store/games               : 0.000236
+https://play.google.com/store/apps                : 0.000236
+https://play.google.com/store/movies              : 0.000236
+https://play.google.com/store/books               : 0.000236
+https://play.google.com/store/apps/category/FAMILY: 0.000236
+https://policies.google.com/privacy               : 0.000236
+https://myaccount.google.com/termsofservice       : 0.000236
+https://play.google.com/store/apps/developer?id=Goodreads: 0.000236
+https://play.google.com/store/apps/category/BOOKS_AND_REFERENCE: 0.000236
+https://play.google.com/store/apps/datasafety?id=com.goodreads: 0.000236
+https://support.google.com/googleplay/?p=report_content: 0.000236
+https://www.goodreads.com/about/contact_us        : 0.000236
+https://play.google.com/store/apps/collection/cluster?gsr=Sk1qGE9PREFjTGxTS21pSjF1SkNqUTE2UkE9PcICMAoRCg1jb20uZ29vZHJlYWRzEAcYCDABOABKFQgBEAAaCUdvb2RyZWFkcyAAKAAwAA%3D%3D:S:ANO1ljKlrN4: 0.000236
+https://play.google.com/store/apps/details?id=net.tonysoft.bookmory: 0.000236
+https://play.google.com/store/apps/details?id=com.thestorygraph.thestorygraph: 0.000236
+https://play.google.com/store/apps/details?id=com.overdrive.mobile.android.libby: 0.000236
+https://play.google.com/store/apps/details?id=com.obreey.reader: 0.000236
+https://play.google.com/store/apps/details?id=com.reader.books: 0.000236
+https://play.google.com/store/apps/details?id=org.readera: 0.000236
+https://play.google.com/store/pass/getstarted     : 0.000236
+https://play.google.com/store/points/enroll       : 0.000236
+https://play.google.com/about/giftcards           : 0.000236
+https://play.google.com/redeem                    : 0.000236
+https://support.google.com/googleplay/answer/134336: 0.000236
+https://support.google.com/googleplay?p=pff_parentguide: 0.000236
+https://support.google.com/googleplay/answer/7007852: 0.000236
+https://play.google.com/intl/en-US_ca/about/play-terms.html: 0.000236
+https://support.google.com/googleplay/?p=about_play: 0.000236
+http://developer.android.com/index.html           : 0.000236
+https://store.google.com/?playredirect=true       : 0.000236
+https://www.goodreads.com/user/new?remember=true  : 0.000236
+https://www.facebook.com/v3.1/dialog/oauth?client_id=2415071772&redirect_uri=https%3A%2F%2Fwww.goodreads.com%2Fuser%2Fnew&scope=email%2Cuser_friends&state=fb_oauth_state_c37f8d89-5177-4d4c-a08d-92db0: 0.000236
+cd98670                                           : 0.000236
+https://www.goodreads.com/site_banner_suppress?format=json&id=anonymous_user_register: 0.000236
+https://www.goodreads.com/author/show/34610.Antonio_Machado: 0.000236
+https://www.goodreads.com/book/show/144611.Campos_de_Castilla: 0.000236
+https://www.goodreads.com/quotes/tag/spanish      : 0.000236
+https://www.goodreads.com/user/new?remember=true&return_url=%2Fquotes%2Ftag%2Finspirational: 0.000236
+https://www.goodreads.com/quotes/8837-wanderer-your-footsteps-are-the-road-and-nothing-more-wanderer: 0.000236
+https://www.goodreads.com/author/show/68.John_C_Maxwell: 0.000236
+https://www.goodreads.com/quotes/tag/maturity     : 0.000236
+https://www.goodreads.com/quotes/tag/self-responsibility: 0.000236
+https://www.goodreads.com/quotes/179068-the-greatest-day-in-your-life-and-mine-is-when: 0.000236
+https://www.goodreads.com/author/show/7116.Cecelia_Ahern: 0.000236
+https://www.goodreads.com/book/show/366522.P_S_I_Love_You: 0.000236
+https://www.goodreads.com/quotes/tag/comfort      : 0.000236
+https://www.goodreads.com/quotes/tag/nice         : 0.000236
+https://www.goodreads.com/quotes/214974-she-had-been-given-a-wonderful-gift-life-sometimes-it: 0.000236
+https://www.goodreads.com/author/show/201908.Ramana_Maharshi: 0.000236
+https://www.goodreads.com/quotes/tag/awakening    : 0.000236
+https://www.goodreads.com/quotes/tag/awareness    : 0.000236
+https://www.goodreads.com/quotes/tag/enlightenment: 0.000236
+https://www.goodreads.com/quotes/tag/giving       : 0.000236
+https://www.goodreads.com/quotes/tag/know-thyself : 0.000236
+https://www.goodreads.com/quotes/tag/self-realization: 0.000236
+https://www.goodreads.com/quotes/tag/service      : 0.000236
+https://www.goodreads.com/quotes/tag/spiritual    : 0.000236
+https://www.goodreads.com/quotes/tag/wisdom-quotes: 0.000236
+https://www.goodreads.com/quotes/966818-your-own-self-realization-is-the-greatest-service-you-can-render: 0.000236
+https://www.goodreads.com/book/show/865.The_Alchemist: 0.000236
+https://www.goodreads.com/quotes/32466-before-a-dream-is-realized-the-soul-of-the-world: 0.000236
+https://www.goodreads.com/author/show/20105.Joseph_Campbell: 0.000236
+https://www.goodreads.com/book/show/35519.The_Power_of_Myth: 0.000236
+https://www.goodreads.com/quotes/30955-we-re-so-engaged-in-doing-things-to-achieve-purposes-of: 0.000236
+https://www.goodreads.com/author/show/7190.Ana_s_Nin: 0.000236
+https://www.goodreads.com/quotes/65976-life-is-truly-known-only-to-those-who-suffer-lose: 0.000236
+https://www.goodreads.com/author/show/5627.Anthony_Robbins: 0.000236
+https://www.goodreads.com/quotes/tag/gift         : 0.000236
+https://www.goodreads.com/quotes/tag/growth       : 0.000236
+https://www.goodreads.com/quotes/tag/problems     : 0.000236
+https://www.goodreads.com/quotes/157339-every-problem-is-a-gift---without-problems-we-would: 0.000236
+https://www.goodreads.com/author/show/43828.Aldo_Leopold: 0.000236
+https://www.goodreads.com/book/show/77292.A_Sand_County_Almanac: 0.000236
+https://www.goodreads.com/quotes/tag/nature       : 0.000236
+https://www.goodreads.com/quotes/93532-one-of-the-penalties-of-an-ecological-education-is-that: 0.000236
+https://www.goodreads.com/quotes/tag/character    : 0.000236
+https://www.goodreads.com/quotes/tag/talent       : 0.000236
+https://www.goodreads.com/quotes/393568-talent-is-a-gift-but-character-is-a-choice: 0.000236
+https://www.goodreads.com/quotes/tag/dan-howell   : 0.000236
+https://www.goodreads.com/quotes/tag/danisnotonfire: 0.000236
+https://www.goodreads.com/quotes/tag/youtube      : 0.000236
+https://www.goodreads.com/quotes/7137487-my-only-regrets-are-the-moments-when-i-doubted-myself: 0.000236
+https://www.goodreads.com/author/show/1354250.Michael_Jackson: 0.000236
+https://www.goodreads.com/quotes/177863-i-m-starting-with-the-man-in-the-mirror-i-m-asking: 0.000236
+https://www.goodreads.com/author/show/3047.John_F_Kennedy: 0.000236
+https://www.goodreads.com/quotes/tag/endurance    : 0.000236
+https://www.goodreads.com/quotes/tag/ideas        : 0.000236
+https://www.goodreads.com/quotes/75938-a-man-may-die-nations-may-rise-and-fall-but: 0.000236
+https://www.goodreads.com/author/show/1194.Richard_Dawkins: 0.000236
+https://www.goodreads.com/book/show/61535.The_Selfish_Gene: 0.000236
+https://www.goodreads.com/quotes/tag/altruism     : 0.000236
+https://www.goodreads.com/quotes/215622-let-us-try-to-teach-generosity-and-altruism-because-we: 0.000236
+https://www.goodreads.com/book/show/15789823-struck-by-lightning: 0.000236
+https://www.goodreads.com/quotes/674307-you-ve-got-to-show-the-world-who-you-are-before: 0.000236
+https://www.goodreads.com/help/list/mobile_website: 0.000236
+https://www.facebook.com/v3.1/dialog/oauth?client_id=2415071772&redirect_uri=https%3A%2F%2Fwww.goodreads.com%2Fuser%2Fnew&scope=email%2Cuser_friends&state=fb_oauth_state_89e4c4c8-a9e2-46c8-bfa7-9fdbe: 0.000236
+02437a6                                           : 0.000236
+https://www.goodreads.com/author/show/128952.Thomas_Kempis: 0.000236
+https://www.goodreads.com/book/show/851393.The_Imitation_of_Christ: 0.000236
+https://www.goodreads.com/quotes/tag/balance      : 0.000236
+https://www.goodreads.com/quotes/tag/control      : 0.000236
+https://www.goodreads.com/quotes/53905-be-not-angry-that-you-cannot-make-others-as-you: 0.000236
+https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray: 0.000236
+https://www.goodreads.com/quotes/tag/dark         : 0.000236
+https://www.goodreads.com/quotes/tag/macabre      : 0.000236
+https://www.goodreads.com/quotes/240485-but-we-never-get-back-our-youth-the-pulse-of: 0.000236
+https://www.goodreads.com/author/show/4491185.Steve_Maraboli: 0.000236
+https://www.goodreads.com/book/show/9817952-life-the-truth-and-being-free: 0.000236
+https://www.goodreads.com/quotes/tag/forever      : 0.000236
+https://www.goodreads.com/quotes/tag/hearts       : 0.000236
+https://www.goodreads.com/quotes/tag/true-love    : 0.000236
+https://www.goodreads.com/quotes/319237-when-forever-becomes-a-place-when-forever-ceases-to-be-just: 0.000236
+https://www.goodreads.com/quotes/729385           : 0.000236
+https://www.goodreads.com/quotes/tag/quotes-to-live-by: 0.000236
+https://www.goodreads.com/quotes/3239467-not-everything-is-supposed-to-become-something-beautiful-and-long-lasting: 0.000236
+https://www.goodreads.com/author/show/14879821.Najwa_Zebian: 0.000236
+https://www.goodreads.com/quotes/7719088-these-mountains-that-you-are-carrying-you-were-only-supposed: 0.000236
+https://www.goodreads.com/author/show/411899.Thomas_S_Monson: 0.000236
+https://www.goodreads.com/quotes/51622-never-let-a-problem-to-be-solved-become-more-important: 0.000236
+https://www.goodreads.com/quotes/tag/giving-up    : 0.000236
+https://www.goodreads.com/quotes/172930-there-is-no-failure-except-in-no-longer-trying: 0.000236
+https://www.goodreads.com/author/show/144067.Dolly_Parton: 0.000236
+https://www.goodreads.com/quotes/tag/feminism     : 0.000236
+https://www.goodreads.com/quotes/88471-i-m-not-going-to-limit-myself-just-because-people-won-t: 0.000236
+https://www.goodreads.com/author/show/656983.J_R_R_Tolkien: 0.000236
+https://www.goodreads.com/quotes/tag/beautiful    : 0.000236
+https://www.goodreads.com/quotes/tag/fighting     : 0.000236
+https://www.goodreads.com/quotes/tag/lord-of-the-rings: 0.000236
+https://www.goodreads.com/quotes/tag/samwise-gamgee: 0.000236
+https://www.goodreads.com/quotes/tag/world        : 0.000236
+https://www.goodreads.com/quotes/7601379-there-s-some-good-in-this-world-mr-frodo-and-it-s: 0.000236
+https://www.goodreads.com/author/show/545.Neal_Stephenson: 0.000236
+https://www.goodreads.com/book/show/830.Snow_Crash: 0.000236
+https://www.goodreads.com/quotes/tag/gender-stereotypes: 0.000236
+https://www.goodreads.com/quotes/tag/men-and-women: 0.000236
+https://www.goodreads.com/quotes/tag/understanding: 0.000236
+https://www.goodreads.com/quotes/tag/understanding-oneself-and-others: 0.000236
+https://www.goodreads.com/quotes/187282-she-s-a-woman-you-re-a-dude-you-re-not-supposed-to: 0.000236
+https://www.goodreads.com/author/show/193164.Ezra_Taft_Benson: 0.000236
+https://www.goodreads.com/quotes/57168-men-and-women-who-turn-their-lives-over-to-god: 0.000236
+https://www.goodreads.com/quotes/tag/haters       : 0.000236
+https://www.goodreads.com/quotes/538131-i-don-t-chase-after-anyone-if-you-wanna-walk-out: 0.000236
+https://www.goodreads.com/author/show/2730977.Henrik_Ibsen: 0.000236
+https://www.goodreads.com/quotes/39440-a-thousand-words-leave-not-the-same-deep-impression-as: 0.000236
+https://quotes.toscrape.com/tag/miracle/page/1/   : 0.000236
+https://www.goodreads.com/quotes/133847-i-ve-gotta-get-out-of-the-basement-i-ve-gotta-see: 0.000236
+https://www.goodreads.com/quotes/tag/inspirational?format=json&id=inspirational&mobile_xhr=1&page=100: 0.000236
+https://store.google.com/?playredirect=true&hl=en-GB: 0.000236
+https://store.google.com/category/phones          : 0.000236
+https://store.google.com/category/earbuds         : 0.000236
+https://store.google.com/product/pixel_tablet     : 0.000236
+https://store.google.com/category/watches_trackers: 0.000236
+https://store.google.com/category/connected_home  : 0.000236
+https://store.google.com/collection/accessories_wall: 0.000236
+https://store.google.com/collection/offers        : 0.000236
+https://store.google.com/orderhistory             : 0.000236
+https://support.google.com/store                  : 0.000236
+https://store.google.com/                         : 0.000236
+https://support.google.com/store?p=store_nav&hl=en-GB: 0.000236
+https://store.google.com/cart?hl=en-GB            : 0.000236
+https://accounts.google.com/AccountChooser?continue=https://store.google.com/?playredirect%3Dtrue%26hl%3Den-GB&hl=en-GB: 0.000236
+https://store.google.com/orderhistory?hl=en-GB    : 0.000236
+https://store.google.com/preferred_care?hl=en-GB  : 0.000236
+https://store.google.com/subscriptions?hl=en-GB   : 0.000236
+https://home.nest.com/en/CA                       : 0.000236
+https://store.google.com/account?hl=en-GB         : 0.000236
+https://store.google.com/product/pixel_8_pro      : 0.000236
+https://store.google.com/product/pixel_8          : 0.000236
+https://store.google.com/product/pixel_watch_2    : 0.000236
+https://store.google.com/product/pixel_buds_pro   : 0.000236
+https://store.google.com/product/fitbit_charge_6  : 0.000236
+https://store.google.com/product/pixel_7a         : 0.000236
+https://store.google.com/product/nest_wifi_pro    : 0.000236
+https://store.google.com/product/chromecast_google_tv: 0.000236
+https://store.google.com/magazine/pixel_portfolio : 0.000236
+https://store.google.com/category/watches         : 0.000236
+https://store.google.com/product/nest_doorbell    : 0.000236
+https://store.google.com/category/nest_cams       : 0.000236
+https://quotes.toscrape.com/tag/miracles/page/1/  : 0.000236
+https://www.google.com                            : 0.000236
+https://g.co/pixelwatch/specs                     : 0.000236
+https://developer.android.com/index.html          : 0.000236
+https://developer.android.com/                    : 0.000236
+https://developer.android.com/get-started         : 0.000236
+https://developer.android.com/modern-android-development: 0.000236
+https://developer.android.com/jetpack/compose/adopt: 0.000236
+https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app: 0.000236
+https://developer.android.com/courses             : 0.000236
+https://developer.android.com/get-started/codelabs: 0.000236
+https://developer.android.com/kotlin              : 0.000236
+https://play.google.com/console/about/guides/monetize/: 0.000236
+https://developer.android.com/large-screens       : 0.000236
+https://developer.android.com/wear                : 0.000236
+https://developer.android.com/cars                : 0.000236
+https://developer.android.com/tv                  : 0.000236
+https://developer.android.com/chrome-os           : 0.000236
+https://developer.android.com/guide/topics/connectivity/cross-device-sdk/overview: 0.000236
+https://developer.android.com/games               : 0.000236
+https://developer.android.com/media               : 0.000236
+https://developer.android.com/health-and-fitness  : 0.000236
+https://developer.android.com/work/overview       : 0.000236
+https://developer.android.com/about/versions      : 0.000236
+https://developer.android.com/studio/preview      : 0.000236
+https://developer.android.com/jetpack/androidx/versions: 0.000236
+https://developer.android.com/training/wearables/versions/4: 0.000236
+https://developer.android.com/design-for-safety/privacy-sandbox: 0.000236
+https://developer.android.com/design              : 0.000236
+https://developer.android.com/design/ui/mobile#explore-our-kits: 0.000236
+https://developer.android.com/design/ui/wear#explore-our-kits: 0.000236
+https://developer.android.com/design/ui           : 0.000236
+https://developer.android.com/design/ui/mobile    : 0.000236
+https://developer.android.com/design/ui/large-screens: 0.000236
+https://developer.android.com/design/ui/wear      : 0.000236
+https://developer.android.com/design/ui/tv        : 0.000236
+https://developer.android.com/topic/architecture/intro: 0.000236
+https://developer.android.com/topic/libraries/view-binding: 0.000236
+https://developer.android.com/guide/navigation/navigation-principles: 0.000236
+https://developer.android.com/topic/modularization: 0.000236
+https://developer.android.com/training/testing/fundamentals: 0.000236
+https://developer.android.com/quality             : 0.000236
+https://developer.android.com/quality/core-value  : 0.000236
+https://developer.android.com/quality/user-experience: 0.000236
+https://developer.android.com/quality/technical   : 0.000236
+https://developer.android.com/quality/privacy-and-security: 0.000236
+https://developer.android.com/build-for-billions  : 0.000236
+https://developer.android.com/docs/quality-guidelines/build-for-billions: 0.000236
+https://developer.android.com/guide/topics/androidgo: 0.000236
+https://developer.android.com/develop             : 0.000236
+https://developer.android.com/studio              : 0.000236
+https://developer.android.com/studio/write        : 0.000236
+https://developer.android.com/develop/ui          : 0.000236
+https://developer.android.com/guide/topics/permissions/overview: 0.000236
+https://developer.android.com/develop/background-work: 0.000236
+https://developer.android.com/guide/topics/data   : 0.000236
+https://developer.android.com/training/sign-in    : 0.000236
+https://developer.android.com/training/camera/choose-camera-library: 0.000236
+https://developer.android.com/develop#core-areas  : 0.000236
+https://developer.android.com/build               : 0.000236
+https://developer.android.com/training/testing    : 0.000236
+https://developer.android.com/topic/performance/overview: 0.000236
+https://developer.android.com/tools               : 0.000236
+https://developer.android.com/reference/tools/gradle-api: 0.000236
+https://developer.android.com/guide/topics/large-screens/get-started-with-large-screens: 0.000236
+https://developer.android.com/training/wearables  : 0.000236
+https://developer.android.com/training/cars       : 0.000236
+https://developer.android.com/training/tv         : 0.000236
+https://developer.android.com/chrome-os/intro     : 0.000236
+https://developer.android.com/reference/packages  : 0.000236
+https://developer.android.com/jetpack/androidx/explorer: 0.000236
+https://developer.android.com/jetpack/androidx/releases/compose: 0.000236
+https://developers.google.com/android/reference/packages: 0.000236
+https://play.google.com/sdks                      : 0.000236
+https://developer.android.com/distribute          : 0.000236
+https://developer.android.com/community           : 0.000236
+https://developer.android.com/events/show         : 0.000236
+https://play.google.com/apps/publish              : 0.000236
+https://io.google/2024/?utm_source=android&utm_medium=embedded_marketing&utm_campaign=hpp_reg_banner&utm_content=: 0.000236
+https://gamedevsummit.withgoogle.com/events/ggds-keynote-2024: 0.000236
+https://developer.android.com/about               : 0.000236
+https://developer.android.com/guide               : 0.000236
+https://developer.android.com/samples             : 0.000236
+https://developer.android.com/news                : 0.000236
+https://www.youtube.com/user/androiddevelopers/   : 0.000236
+https://x.com/AndroidDev                          : 0.000236
+https://www.youtube.com/user/androiddevelopers    : 0.000236
+https://www.linkedin.com/showcase/androiddev      : 0.000236
+https://www.android.com                           : 0.000236
+https://www.android.com/enterprise/               : 0.000236
+https://www.android.com/security-center/          : 0.000236
+https://source.android.com                        : 0.000236
+https://android-developers.googleblog.com/        : 0.000236
+https://developer.android.com/podcasts            : 0.000236
+https://developer.android.com/ml                  : 0.000236
+https://developer.android.com/privacy             : 0.000236
+https://developer.android.com/training/connectivity/5g: 0.000236
+https://developer.android.com/about/versions/14   : 0.000236
+https://developer.android.com/about/versions/13   : 0.000236
+https://developer.android.com/about/versions/12   : 0.000236
+https://developer.android.com/about/versions/11   : 0.000236
+https://developer.android.com/about/versions/10   : 0.000236
+https://developer.android.com/about/versions/pie  : 0.000236
+https://developer.android.com/about/versions/oreo : 0.000236
+https://developer.android.com/about/versions/nougat: 0.000236
+https://developer.android.com/studio/intro        : 0.000236
+https://developer.android.com/reference           : 0.000236
+https://developer.android.com/ndk                 : 0.000236
+https://issuetracker.google.com/issues/new?component=190923&template=841312: 0.000236
+https://issuetracker.google.com/issues/new?component=192697: 0.000236
+https://support.google.com/googleplay/android-developer: 0.000236
+https://g.co/userresearch/androiddeveloperfooter  : 0.000236
+https://developers.google.com/                    : 0.000236
+https://developer.chrome.com/home                 : 0.000236
+https://firebase.google.com                       : 0.000236
+https://cloud.google.com                          : 0.000236
+https://developers.google.com/products/           : 0.000236
+https://quotes.toscrape.com/author/Jane-Austen    : 0.000236
+https://developer.android.com/distribute/marketing-tools/brand-guidelines: 0.000236
+https://developer.android.com/updates             : 0.000236
+https://www.goodreads.com/quotes/tag/inspirational?format=json&id=inspirational&mobile_xhr=1&page=100https://www.goodreads.com/quotes/133847-i-ve-gotta-get-out-of-the-basement-i-ve-gotta-see: 0.000236
+https://www.goodreads.com/user/new?remember=true&return_url=%2Fquotes%2F133847-i-ve-gotta-get-out-of-the-basement-i-ve-gotta-see: 0.000236
+https://www.goodreads.com/user/show/140045047-xxx-xxx: 0.000236
+https://www.goodreads.com/user/show/12379195-kayla: 0.000236
+https://www.goodreads.com/user/show/114285185-montague: 0.000236
+https://www.goodreads.com/user/show/151146404-aidan: 0.000236
+https://www.goodreads.com/user/show/76003755-voicu-nata-a: 0.000236
+https://www.goodreads.com/user/show/38604061-buse : 0.000236
+https://www.goodreads.com/user/show/116582291-deep-waters: 0.000236
+https://www.goodreads.com/user/show/70790489-elizabeth: 0.000236
+https://www.goodreads.com/user/show/96165713      : 0.000236
+https://www.goodreads.com/user/show/78858437-adia-botterman: 0.000236
+https://quotes.toscrape.com/tag/aliteracy/page/1/ : 0.000236
+https://quotes.toscrape.com/tag/books/page/1/     : 0.000236
+https://www.goodreads.com/user/show/78197580-lies : 0.000236
+https://quotes.toscrape.com/tag/classic/page/1/   : 0.000236
+https://quotes.toscrape.com/tag/humor/page/1/     : 0.000236
+https://www.goodreads.com/quotes/133847-i-ve-gotta-get-out-of-the-basement-i-ve-gotta-see?format=js&id=133847-i-ve-gotta-get-out-of-the-basement-i-ve-gotta-see&mobile_xhr=1&page=2: 0.000236
+https://developer.android.com/subscribe           : 0.000236
+https://www.goodreads.com/quotes/133847-i-ve-gotta-get-out-of-the-basement-i-ve-gotta-see?format=js&id=133847-i-ve-gotta-get-out-of-the-basement-i-ve-gotta-see&mobile_xhr=1&page=2https://developer.an: 0.000236
+droid.com/distribute/marketing-tools/brand-guidelines: 0.000236
+https://developer.android.com/distribute/console  : 0.000236
+https://developer.android.com/distribute/play-billing: 0.000236
+https://developer.android.com/google/play/integrity: 0.000236
+https://developer.android.com/distribute/play-policies: 0.000236
+https://developer.android.com/distribute/play-services: 0.000236
+https://developer.android.com/distribute/marketing-tools: 0.000236
+https://developer.android.com/distribute/google-play/resources/icon-design-specifications: 0.000236
+https://developer.android.com/distribute/marketing-tools/device-art-generator: 0.000236
+https://developer.android.com/distribute/marketing-tools/linking-to-google-play: 0.000236
+https://developer.android.com/distribute/marketing-tools/alternative-distribution: 0.000236
+http://partnermarketinghub.withgoogle.com         : 0.000236
+https://www.google.com/permissions/               : 0.000236
+https://support.google.com/contact/partner_brand_approval: 0.000236
+https://source.android.com/compatibility/index.html: 0.000236
+https://creativecommons.org/licenses/by/3.0/      : 0.000236
+https://source.android.com/setup/start/faqs.html#if-my-device-is-compatible-does-it-automatically-have-access-to-google-play-and-branding: 0.000236
+https://support.google.com/googleplay/answer/1727131: 0.000236
+https://quotes.toscrape.com/author/Marilyn-Monroe : 0.000236
+https://x.com/GooglePlayBiz                       : 0.000236
+https://medium.com/googleplaydev                  : 0.000236
+https://quotes.toscrape.com/tag/be-yourself/page/1/: 0.000236
+https://support.google.com/googleplay/android-developer/community: 0.000236
+https://www.goodreads.com/friend/add_as_friend/23505547?from_user_show_page=true&return_url=%2Fuser%2Fshow%2F23505547-madalina: 0.000236
+https://www.goodreads.com/flagged/new?resource_id=23505547&resource_type=User&return_url=%2Fuser%2Fshow%2F23505547-madalina: 0.000236
+https://www.goodreads.com/user/sign_in            : 0.000236
+https://support.google.com/googleplay/android-developer/community#hcfe-content: 0.000236
+https://support.google.com/?tab=uu                : 0.000236
+https://www.google.ca/intl/en/about/products?tab=uh: 0.000236
+https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=http://support.google.com/googleplay/android-developer/community&ec=GAZAdQ: 0.000236
+https://support.google.com/                       : 0.000236
+https://support.google.com/googleplay/android-developer/?hl=en: 0.000236
+https://support.google.com/googleplay/android-developer/topic/3308856?hl=en&ref_topic=9857238,2856718,: 0.000236
+https://support.google.com/googleplay/android-developer/topic/9858052?hl=en&ref_topic=9857238,2856718,: 0.000236
+https://support.google.com/googleplay/android-developer/community?hl=en: 0.000236
+https://play.google.com/apps/publish/             : 0.000236
+https://www.google.com/intl/en/privacy.html       : 0.000236
+https://www.google.com/accounts/TOS               : 0.000236
+https://support.google.com/googleplay/android-developer/announcements/13412212: 0.000236
+https://support.google.com/googleplay/android-developer/threads?hl=en&thread_filter=(pinned:true): 0.000236
+https://support.google.com/googleplay/android-developer/thread/264111657/reminder-for-accounts-at-risk-of-being-closed?hl=en: 0.000236
+https://support.google.com/googleplay/android-developer/thread/248585961/account-deletion-extension-request-and-user-guide?hl=en: 0.000236
+https://support.google.com/googleplay/android-developer/thread/190808227/app-review-101?hl=en: 0.000236
+https://productexperts.withgoogle.com/what-it-is  : 0.000236
+https://support.google.com/googleplay/android-developer/community/about?hl=en: 0.000236
+https://support.google.com/communities/answer/7424249: 0.000236
+https://support.google.com/communities/answer/7425194: 0.000236
+https://support.google.com/googleplay/android-developer/thread/new?hl=en: 0.000236
+https://support.google.com/googleplay/android-developer/threads?hl=en: 0.000236
+https://support.google.com/googleplay/android-developer/thread/236780137/my-account-is-terminated?hl=en: 0.000236
+https://support.google.com/googleplay/android-developer/thread/232683714/app-rejected-issue-found-category-not-permitted?hl=en: 0.000236
+https://support.google.com/googleplay/android-developer/thread/237060881/update-rejected?hl=en: 0.000236
+https://support.google.com/googleplay/android-developer/threads?hl=en&thread_filter=(category:devcom_google_play_policy): 0.000236
+https://support.google.com/googleplay/android-developer/thread/206281945/we-can-t-verify-your-phone-number-right-now-try-again-later-play-console?hl=en: 0.000236
+https://support.google.com/googleplay/android-developer/thread/236856811/must-it-be-the-same-one-on-setting-up-the-address-of-payments-profile-and-developer-account?hl=en: 0.000236
+https://support.google.com/googleplay/android-developer/thread/234575599/release-doesn-t-allow-any-existing-users-to-upgrade?hl=en: 0.000236
+https://support.google.com/googleplay/android-developer/threads?hl=en&thread_filter=(category:devcom_google_play_console): 0.000236
+https://support.google.com/googleplay/android-developer/thread/235858790/regarding-refund?hl=en: 0.000236
+https://support.google.com/googleplay/android-developer/thread/236423119/not-showing-create-product-in-in-app-products-after-payment-profile-added?hl=en: 0.000236
+https://support.google.com/googleplay/android-developer/thread/235936872/about-payment-method-for-my-account?hl=en: 0.000236
+https://quotes.toscrape.com/tag/adulthood/page/1/ : 0.000236
+https://support.google.com/googleplay/android-developer/thread/237710629/i-m-utterly-done-with-app-development-for-google?hl=en: 0.000236
+https://support.google.com/googleplay/android-developer/thread/236748602/where-can-i-download-the-google-play-games-on-pc-developer-emulator?hl=en: 0.000236
+https://quotes.toscrape.com/tag/success/page/1/   : 0.000236
+https://quotes.toscrape.com/tag/value/page/1/     : 0.000236
+https://www.goodreads.com/ap/signin?identityProvider=LoginWithAmazon&language=en_US&openid.assoc_handle=amzn_goodreads_web_lwa&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifie: 0.000236
+r_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.pape.max_auth_age=0&openi: 0.000236
+d.return_to=https%3A%2F%2Fwww.goodreads.com%2Fap-handler%2Fsign-in%3FIDP%3DLoginWithAmazon&relyingParty=GOODREADS&siteState=98e3f33390a780f1e18fd2a184109188: 0.000236
+https://www.goodreads.com/ap/signin?identityProvider=APPLE&language=en_US&openid.assoc_handle=amzn_goodreads_web_apple&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select: 0.000236
+&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.pape.max_auth_age=0&openid.return: 0.000236
+_to=https%3A%2F%2Fwww.goodreads.com%2Fap-handler%2Fsign-in%3FIDP%3DAPPLE&relyingParty=GOODREADS&siteState=98e3f33390a780f1e18fd2a184109188: 0.000236
+https://www.goodreads.com/ap/signin?language=en_US&openid.assoc_handle=amzn_goodreads_web_na&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2: 0.000236
+F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.good: 0.000236
+reads.com%2Fap-handler%2Fsign-in&siteState=98e3f33390a780f1e18fd2a184109188: 0.000236
+https://help.goodreads.com/s/article/How-do-I-sign-in-to-my-Goodreads-account: 0.000236
+https://support.google.com/googleplay/android-developer/threads?hl=en&thread_filter=(category:devcom_google_play_games)#hcfe-content: 0.000236
+https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=http://support.google.com/googleplay/android-developer/threads%3Fhl%3Den%26thread_filter%3D(category:devcom_google_play_games)&ec=: 0.000236
+GAZAdQ                                            : 0.000236
+https://support.google.com/googleplay/android-developer/thread/264227289/mistek-account-ban-my?hl=en: 0.000236
+https://support.google.com/googleplay/android-developer/thread/262542353/my-app-is-in-production-bur-did-not-appear-on-searches-at-google-play?hl=en: 0.000236
+https://support.google.com/googleplay/android-developer/thread/263576410/who-is-going-to-try-the-game?hl=en: 0.000236
+https://support.google.com/googleplay/android-developer/thread/263445308/application-cannot-be-reviewed?hl=en: 0.000236
+https://support.google.com/googleplay/android-developer/thread/262471906/an-error-may-occur-depending-on-the-device-model?hl=en: 0.000236
+https://support.google.com/googleplay/android-developer/thread/262273473/google-play-store-crashed?hl=en: 0.000236
+https://support.google.com/googleplay/android-developer/thread/258201563/i-am-tiring-to-install-google-play-games-beta-but-when-i-open-it-than-i-get-a-error?hl=en: 0.000236
+https://support.google.com/googleplay/android-developer/thread/262016750/game-cheating-players?hl=en: 0.000236
+https://support.google.com/googleplay/android-developer/thread/249125047/other-developers-using-my-app-s-content?hl=en: 0.000236
+https://support.google.com/googleplay/android-developer/thread/261076954/can-i-use-the-next-generation-player-id-in-pgs-sdk-v1?hl=en: 0.000236
+https://support.google.com/googleplay/android-developer/thread/260678103/deception-misrepresentation-fraud?hl=en: 0.000236
+https://support.google.com/googleplay/android-developer/thread/260683965/i-don%C2%B4t-know-how-to-create-a-certificate-for-my-new-keystore?hl=en: 0.000236
+https://support.google.com/googleplay/android-developer/thread/259684876/google-play-device-integrity-failed?hl=en: 0.000236
+https://support.google.com/googleplay/android-developer/thread/259038237/payment-problem?hl=en: 0.000236
+https://support.google.com/googleplay/android-developer/thread/258784726/glitching-when-i-try-to-enter-my-game-its-glitching-but-only-from-playstore-build-not-direct-apk?hl=en: 0.000236
+https://support.google.com/googleplay/android-developer/thread/258452220/app-not-showing-in-google-play-search?hl=en: 0.000236
+https://support.google.com/googleplay/android-developer/thread/257663034/currently-no-way-to-download-c-sdk?hl=en: 0.000236
+https://support.google.com/googleplay/android-developer/thread/257600792/game-not-live-yet?hl=en: 0.000236
+https://support.google.com/googleplay/android-developer/thread/257474482/you-already-own-this-item?hl=en: 0.000236
+https://support.google.com/googleplay/android-developer/thread/257438124/i-need-googleplay-authorization-latter-to-sell-gifts-cards?hl=en: 0.000236
+https://accounts.google.com/ServiceLogin?continue=https://support.google.com/googleplay/android-developer/threads: 0.000236
+https://www.goodreads.com/friend/add_as_friend/31412569?from_user_show_page=true&return_url=%2Fuser%2Fshow%2F31412569-elia-goldenlyre: 0.000236
+https://www.goodreads.com/flagged/new?resource_id=31412569&resource_type=User&return_url=%2Fuser%2Fshow%2F31412569-elia-goldenlyre: 0.000236
+https://quotes.toscrape.com/author/Andre-Gide     : 0.000236
+https://quotes.toscrape.com/tag/love/page/1/      : 0.000236
+https://www.goodreads.com/author/show/4429748.Hun : 0.000236
+https://www.goodreads.com/review/show/1893253490  : 0.000236
+https://quotes.toscrape.com/author/Thomas-A-Edison: 0.000236
+https://www.goodreads.com/review/list/31412569-elia-goldenlyre?shelf=recommendations: 0.000236
+https://www.goodreads.com/review/list/31412569-elia-goldenlyre?shelf=to-read: 0.000236
+https://www.goodreads.com/review/list/31412569    : 0.000236
+https://www.goodreads.com/user/year_in_books/2023/31412569: 0.000236
+https://www.goodreads.com                         : 0.000236
+https://www.goodreads.com/gp/help/customer/display.html/ref=ap_cookie_error_help: 0.000236
+https://quotes.toscrape.com/tag/edison/page/1/    : 0.000236

@@ -1,0 +1,53 @@
+Got to MPI_BcastTime taken using 16 nodes:	 129.520920 s
+PageRank scores:
+https://www.utm.utoronto.ca/programs-and-departments/graduate-programs-and-depa: 0.008825
+rtments                                           : 0.008200
+ions                                              : 0.008130
+https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/data-vi: 0.008092
+rk                                                : 0.007879
+https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/crowdma: 0.006640
+https://www.utoronto.ca/news/u-t-and-gta-makers-show-their-creations-during-wee: 0.005961
+http://directory.utoronto.ca/                     : 0.005678
+https://people.utoronto.ca/employees/workplace-complaints/concern-or-complaint/: 0.005672
+https://indigenous.utoronto.ca/academic-programming: 0.005484
+l-reflection                                      : 0.005380
+https://people.utoronto.ca/contact/               : 0.005310
+http://www.utm.utoronto.ca/shuttle                : 0.005232
+https://people.utoronto.ca/culture/land-acknowledgement/: 0.005035
+ding-and-awards                                   : 0.004898
+                                                  : 0.004796
+https://www.utoronto.ca/news/defibrillators-making-sure-theyre-accessible-when-: 0.004720
+erves%29&details=%3Cstrong%3ELocation%3A%C2%A0%3C%2Fstrong%3EVirtual+Training+S: 0.004586
+ession%3Cstrong%3EDuration%3A%C2%A0%3C%2Fstrong%3E2+hours%3Cstrong%3EFormat%3A%: 0.004578
+C2%A0%3C%2Fstrong%3ELecture+%2B%C2%A0Demonstration%3Ca+href%3D%22https%3A%2F%2F: 0.004572
+https://www.rotman.utoronto.ca/Degrees/MastersPrograms/MBAPrograms/FullTimeMBA#: 0.004536
+https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/virtual: 0.004268
+https://offcampushousing.utoronto.ca/             : 0.004123
+30907T153000&text=Understanding%20Earmarked%20Funds%20%28i.e.%2C%20Manual%20Res: 0.004118
+https://learn.utoronto.ca/help/forms-and-applications#https://learn.utoronto.ca: 0.003991
+https://uwaterloo.ca/chemistry/people-profiles/janusz-pawliszyn: 0.003962
+tdt=2023-10-11T09:30:00&enddt=2023-10-11T15:30:00&location=Virtual%20Session%20: 0.003911
+https://outlook.office.com/owa/?path=/calendar/action/compose&rrv=addevent&star: 0.003788
+https://www.utm.utoronto.ca/iits/mfa              : 0.003659
+4/08-examples-from-african-cities.aspx            : 0.003472
+ry-society-and-the-right-to-information/          : 0.003471
+ca//news/early-career-teaching-award-spotlight-qa-kinesiology-and-phys-ed-prof-: 0.003468
+http://www.utsc.utoronto.ca/parking/              : 0.003136
+https://edtech.engineering.utoronto.ca/sessions/beyond-assessment-how-testing-c: 0.003108
+_page=44#content                                  : 0.003085
+g-keep-ai-track#main-content                      : 0.003074
+https://socialwork.utoronto.ca/simulation-learning/using-simulation-in-assessme: 0.003035
+ch%20reports%E2%80%99%20output%20data.Topics%20include%3A%20%09Common%20Control: 0.002862
+ergraduate-programs                               : 0.002845
+sualization                                       : 0.002833
+https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/designi: 0.002791
+on                                                : 0.002742
+https://people.utoronto.ca/culture/accountability/initiatives/: 0.002717
+https://uwaterloo.ca/extended-learning/learn-online/write-exams/exam-centres: 0.002567
+https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/teachin: 0.002496
+https://www.utm.utoronto.ca/parking/transportation/u-pass#main-content: 0.002470
+fiaa-outstanding-student-contribution-award/      : 0.002455
+%E2%80%93%20Adobe%20Connect&subject=Reconciling%20and%20Reviewing%20Month%20End: 0.002445
+https://future.utoronto.ca/apply/future-students-resources/: 0.002344
+https://utsc.utoronto.ca/admissions/cegep         : 0.002326
+Got to MPI_BcastGot to MPI_BcastGot to MPI_BcastGot to MPI_BcastGot to MPI_BcastGot to MPI_BcastGot to MPI_BcastGot to MPI_BcastGot to MPI_BcastGot to MPI_BcastGot to MPI_BcastGot to MPI_BcastGot to MPI_BcastGot to MPI_BcastGot to MPI_Bcast
